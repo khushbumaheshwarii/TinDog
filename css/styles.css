@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
+
+#title
+{
+    background-color:#ff4c68;
+}
+
+.container-fluid
+{
+    padding:3% 15%;
+}
+
+h1{
+    font-family:"Montserrat-Thin";
+    font-size: 3rem; 
+    line-height: 1.5;
+}
